@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+   
+}
+
+
+.navbar {
+    background-color: #141217;
+}
+
+.title1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.typhoon1 {
+    width: 40%;
+    height: auto;
+}
+
+@media (min-width: 601px) {
+    .typhoon1 {
+      width: 40%; 
+    }
+
+
+hr {
+    border: 2px solid #ccc;
+    margin: 40px 0;
+  }
+
+  .img3 {
+    width: 65%;
+    height: auto;
+    margin-top: 50px;
+  }
+
+  .img2 {
+    width: 65%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+  }
+
+  .hr1{ 
+    height: 2px;
+    width: 70%; /* Set the desired height for the horizontal rule */
+    background-color: grey; /* Set the background color for the horizontal rule */
+    border: none; /* Remove the default border */
+    margin: 20px auto ;
+  }
+
+  footer{
+    background-color: #f0f0f0;
+  }
+}
