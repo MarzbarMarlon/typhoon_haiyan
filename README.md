@@ -1,6 +1,6 @@
 # Typhoon Haiyan: Class Based Assessment Project
 ## Introduction
-## Welcome to the Typhoon Haiyan Class Based Assessment project website. This project explores the background, impacts, and relief efforts associated with Typhoon Haiyan, a powerful tropical cyclone that struck the Philippines in November 2013. This website has been created as part of a Class Based Assessment and will be reviewed by your geography teacher.
+## Welcome to the Typhoon Haiyan Class Based Assessment project website. This project explores the background, impacts, and relief efforts associated with Typhoon Haiyan, a powerful tropical cyclone that struck the Philippines in November 2013. This was created by Marlon Jr Mandaya
 
 Link - https://marzbarmarlon.github.io/typhoon_haiyan/
 
